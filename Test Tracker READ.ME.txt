@@ -1,0 +1,21 @@
+Test Tracker READ.ME
+
+This is "Test Tracker" application made using python.
+
+DESCRIPTION:
+This application can be used as tool to analyse your score from your exams or tests and lets keep an record of them. Currently built for three subjects(Maths, Science and English).
+
+HOW TO USE:
+1. First, you have choose which subject using 1.Maths, 2.Science, 3.English
+2. Second, then you can enter your score.  
+3. perform analysis
+   * shows all your scores in a certain subject(Maths, Science and English)
+   * shows your current score
+   * shows your previous score
+   * shows your highest score
+   * shows your lowest score 
+4. Gives helpful messages 
+5. Your score for that subject has been saved, now you can enter another score
+
+CREDITS:
+Thanks Avi and Elliot for help with the Coding :D
